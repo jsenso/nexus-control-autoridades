@@ -1,0 +1,1 @@
+This Drupal module is part of the Nexus framework. Implemented in Scientia, and is used to facilitate the authority control process. It was created by Sandor Dominguez, Amed Leiva and Jose A. Senso
